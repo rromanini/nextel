@@ -10,4 +10,8 @@ Neste momento estou envolvido em estudos da plataforma Hadoop, mas resolvi fazer
 
 Agradeço pela atenção durante estes meses.
 
-Um outro link que você pode consultar é um trabalho que fiz para a Coursera, de Visualização de dados onde utilizei um dataset sobre acidentes aéreos no Brasil. O endereço é: 
+Um outro link que você pode consultar é um trabalho que fiz para a Coursera, de Visualização de dados onde utilizei um dataset sobre acidentes aéreos no Brasil. 
+
+A url para o site é https://ruiromanini.shinyapps.io/myshinyairaccidents/ 
+
+O código está disponível em https://github.com/rromanini/data_products.
